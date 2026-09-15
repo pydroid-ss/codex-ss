@@ -1,2 +1,3 @@
 # codex-ss
-THIS IS MY FIRST GIT REPOSITORY
+This is my first Repository.
+AUTHOR-Subrat Samal
